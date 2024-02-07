@@ -39,3 +39,9 @@ h)What is the proportion of each sector in FDI?
 i)Are there some specific clusters that are present here?
 
 j)What is the forecast for next year?
+
+### Maximum and Minimum FDI:
+
+The analysis begins by identifying the sectors that attract the maximum and minimum direct funding for each year. This insight helps pinpoint lucrative sectors for potential collaboration.
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Dashboard3.1.png">
