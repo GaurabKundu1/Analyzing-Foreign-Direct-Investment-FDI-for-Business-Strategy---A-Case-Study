@@ -69,3 +69,11 @@ Exploring sectors with the most variation in FDI provides insights into dynamic 
  ### Trend of overall Foreign Direct Investment
 
 <img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/trends.png">
+
+### Sectors Reported High Growth in FDI in Last 5 years
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/growth.png">
+
+### Sectors Reported Lowest Growth in FDI in Last 5 years
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/decline.png">
