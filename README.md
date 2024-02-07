@@ -17,3 +17,25 @@ FDI involves a corporation from one country making an investment into a corporat
 Unlike indirect investments, FDI requires control over various aspects, such as technology and management. 
 
 Large firms typically engage in FDI, seeking to establish a significant presence in foreign jurisdictions.
+
+### Key Analytical Objectives
+
+a)Which sector receives the maximum direct funding for a given year?
+
+b)Which sector receives the minimum direct funding for a given year?
+
+c)Is there any trend of overall foreign direct investment
+
+d) In what fashion can the sectors be grouped for comparision?
+
+e) Which sectors reported high growth in FDI in last 5 years?
+
+f) Which sectors reported lowest growth in FDI in last 5 years?
+
+g)Which sectors reported the most variation overall?
+
+h)What is the proportion of each sector in FDI?
+
+i)Are there some specific clusters that are present here?
+
+j)What is the forecast for next year?
