@@ -1,101 +1,66 @@
-# Analyzing Foreign Direct Investment FDI for Business Strategy - A Case Study
+# Analyzing Foreign Direct Investment (FDI) for Business Strategy - A Case Study
 
-## Author : [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
+## Author: [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
 
 ### Introduction
 
-Foreign Direct Investment (FDI) plays a pivotal role in the global economy, fostering international collaborations and driving economic growth. 
-
-This case study delves into an analysis of FDI data, employing Tableau for visual insights. 
-
-The objective is to guide business decisions by identifying sectors that prove most beneficial for collaboration.
+Foreign Direct Investment (FDI) is a driving force in the global economy, fostering international collaborations and economic growth. This case study employs Tableau for a comprehensive analysis of FDI data, aiming to guide business decisions by identifying sectors with the highest potential for collaboration.
 
 ### Understanding FDI
 
-FDI involves a corporation from one country making an investment into a corporation of another country. 
-
-Unlike indirect investments, FDI requires control over various aspects, such as technology and management. 
-
-Large firms typically engage in FDI, seeking to establish a significant presence in foreign jurisdictions.
+FDI involves one country's corporation making investments in another country's corporation. Unlike indirect investments, FDI requires control over various aspects, such as technology and management. Large firms typically engage in FDI to establish a significant presence in foreign jurisdictions.
 
 ### Key Analytical Objectives
 
-a)Which sector receives the maximum direct funding for a given year?
+a) **Maximum and Minimum FDI:**
+   Identifying sectors attracting the maximum and minimum direct funding helps pinpoint lucrative sectors for potential collaboration.
 
-b)Which sector receives the minimum direct funding for a given year?
+   ![Maximum and Minimum FDI](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Dashboard3.1.png)
 
-c)Is there any trend of overall foreign direct investment
+b) **Sector Grouping & Variation:**
+   Organizing sectors based on shared characteristics facilitates meaningful comparisons. Sectors are categorized into red (below the baseline of 1000 FDI) and blue (above the baseline), aiding in strategic considerations.
 
-d) In what fashion can the sectors be grouped for comparision?
+   ![Sector Grouping & Variation](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Groups.png)
 
-e) Which sectors reported high growth in FDI in last 5 years?
+   Exploring sectors with the most variation in FDI provides insights into dynamic industries essential for risk management.
 
-f) Which sectors reported lowest growth in FDI in last 5 years?
+   ![Variation](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Variation.png)
 
-g)Which sectors reported the most variation overall?
+c) **Trend of Overall FDI:**
+   Analyzing the trend of overall FDI provides valuable information for strategic planning.
 
-h)What is the proportion of each sector in FDI?
+   ![Trend of Overall FDI](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/trends.png)
 
-i)Are there some specific clusters that are present here?
+d) **Sectors Reported High and Lowest Growth in FDI (Last 5 Years):**
+   Identifying sectors with high and low growth in the last 5 years informs strategic choices.
 
-j)What is the forecast for next year?
+   ![High Growth](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/growth.png)
 
-### Maximum and Minimum FDI:
+   ![Lowest Growth](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/decline.png)
 
-The analysis begins by identifying the sectors that attract the maximum and minimum direct funding for each year. This insight helps pinpoint lucrative sectors for potential collaboration.
+e) **Proportion of Each Sector in FDI:**
+   Determining the proportion of each sector in FDI offers a macro-level view for resource allocation and risk assessment.
 
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Dashboard3.1.png">
+   ![Proportion](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/proportion.png)
 
-### Sector Grouping & Variation
+f) **Specific Clusters:**
+   Identifying specific clusters within the FDI dataset uncovers hidden relationships guiding targeted collaborations and investments.
 
-Organizing sectors based on shared characteristics facilitates meaningful comparisons, offering valuable insights for decision-making. 
+   ![Clusters](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/clusters.png)
 
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Groups.png">
+g) **Forecast for Next Year:**
+   Utilizing historical data, the study provides a forecast for the next year, enabling proactive decision-making.
 
-In this categorization, sectors are differentiated into two groups:
+   ![Forecast](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/forecast.png)
 
- those marked in red have not witnessed substantial Foreign Direct Investment (FDI) over the 17-year period, falling below the established baseline of 1000. 
+   From the image above, the forecast for the year 2017 is 41517, and for 2018, it is 44025.
 
-Sectors depicted in blue have attracted FDI amounts surpassing our predefined baseline. 
+   [Access the Interactive Tableau Dashboard Here](https://public.tableau.com/views/AnalyzingForeignDirectInvestmentFDIforBusinessStrategy-ACaseStudy/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-This classification aids in identifying sectors that may require additional attention or strategic considerations for further exploration and investment.
+### Sneak Peek of the Tableau Dashboard
 
-Exploring sectors with the most variation in FDI provides insights into dynamic industries.
+![Dashboard 1](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Dashboard1.png)
 
- Understanding the factors contributing to this variation is essential for risk management.
+![Dashboard 2](https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Dashboard2.png)
 
- <img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Variation.png">
-
- ### Trend of overall Foreign Direct Investment
-
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/trends.png">
-
-### Sectors Reported High Growth in FDI in Last 5 years
-
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/growth.png">
-
-### Sectors Reported Lowest Growth in FDI in Last 5 years
-
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/decline.png">
-
-### Proportion of Each Sector in FDI
-
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/proportion.png">
-
-### Specific Clusters Present Here
-
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/clusters.png">
-
-### Forecast for Next Year
-
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/forecast.png">
-
-From the image above we can see the Forecast for year 2017 is 41517 and for year 2018 is 44025
-
-[Access the Interactive Tableau Dashboard Here](https://public.tableau.com/views/AnalyzingForeignDirectInvestmentFDIforBusinessStrategy-ACaseStudy/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-### Sneakpeak of the Tableau Dashboard
-
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Dashboard1.png">
-
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Dashboard2.png">
+This case study serves as a roadmap for navigating the complex landscape of international business, facilitating smarter and more strategic choices in the pursuit of global opportunities.
