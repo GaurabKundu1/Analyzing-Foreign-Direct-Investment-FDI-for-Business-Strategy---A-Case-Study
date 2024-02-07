@@ -60,14 +60,12 @@ Sectors depicted in blue have attracted FDI amounts surpassing our predefined ba
 
 This classification aids in identifying sectors that may require additional attention or strategic considerations for further exploration and investment.
 
-### Trend of overall Foreign Direct Investment
-
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Groups.png">
-
 Exploring sectors with the most variation in FDI provides insights into dynamic industries.
 
  Understanding the factors contributing to this variation is essential for risk management.
 
  <img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Variation.png">
 
- 
+ ### Trend of overall Foreign Direct Investment
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/trends.png">
