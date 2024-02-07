@@ -50,7 +50,7 @@ The analysis begins by identifying the sectors that attract the maximum and mini
 
 Organizing sectors based on shared characteristics facilitates meaningful comparisons, offering valuable insights for decision-making. 
 
-<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Groups.png">
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Groups.png" style="align-items-center">
 
 In this categorization, sectors are differentiated into two groups:
 
