@@ -77,3 +77,25 @@ Exploring sectors with the most variation in FDI provides insights into dynamic 
 ### Sectors Reported Lowest Growth in FDI in Last 5 years
 
 <img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/decline.png">
+
+### Proportion of Each Sector in FDI
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/proportion.png">
+
+### Specific Clusters Present Here
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/clusters.png">
+
+### Forecast for Next Year
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/forecast.png">
+
+From the image above we can see the Forecast for year 2017 is 41517 and for year 2018 is 44025
+
+[Access the Interactive Tableau Dashboard Here](https://public.tableau.com/views/AnalyzingForeignDirectInvestmentFDIforBusinessStrategy-ACaseStudy/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Sneakpeak of the Tableau Dashboard
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Dashboard1.png">
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Foreign-Direct-Investment-FDI-for-Business-Strategy---A-Case-Study/blob/main/images/Dashboard2.png">
