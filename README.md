@@ -1,2 +1,3 @@
 # Analyzing Foreign Direct Investment FDI for Business Strategy - A Case Study
-The FDI Case Study with Tableau
+
+Author : [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
